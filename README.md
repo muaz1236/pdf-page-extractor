@@ -16,7 +16,7 @@ A simple and efficient tool to extract specific pages from PDF documents while p
 
 ### Option 1: Download Executable (Recommended for Windows Users)
 
-1. Download `pdf_splitter.exe` from the [Releases](https://github.com/yourusername/pdf-splitter/releases) page.
+1. Download `pdf_splitter.exe` from the [Releases](https://github.com/muaz1236/pdf-splitter/v1.0.0) page.
 2. Run the executable directly - no installation needed!
 
 ### Option 2: From Source
