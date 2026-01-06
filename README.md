@@ -16,15 +16,15 @@ A simple and efficient tool to extract specific pages from PDF documents while p
 
 ### Option 1: Download Executable (Recommended for Windows Users)
 
-1. Download `pdf_splitter.exe` from the [Releases](https://github.com/yourusername/pdf-splitter/releases) page.
+1. Download `pdf_splitter.exe` from the [Releases](https://github.com/muaz1236/pdf-page-extractor/releases) page.
 2. Run the executable directly - no installation needed!
 
 ### Option 2: From Source
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-splitter.git
-   cd pdf-splitter
+   git clone https://github.com/muaz1236/pdf-page-extractor.git
+   cd pdf-page-extractor
    ```
 
 2. Install dependencies:
